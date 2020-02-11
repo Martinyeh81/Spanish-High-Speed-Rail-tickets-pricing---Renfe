@@ -5,4 +5,4 @@ We use learning curve to compare the models, the learning curve of learning regr
 
 
 ## Skill
-Python: Pandas, Numpy, scikit-learn, matplotlib
+Python: Pandas, Numpy, scikit-learn, matplotlib, learning curve
